@@ -2,6 +2,13 @@
 
 A comprehensive mobile application system that detects trucks and performs license plate recognition for automated gate control. The system consists of a Flutter mobile app, Flask AI server, and ESP32 hardware controller.
 
+## Demo Video
+
+[![Mobile Truck Detection Demo](https://img.youtube.com/vi/dypM37S279k/0.jpg)](https://www.youtube.com/watch?v=dypM37S279k)
+
+**[Watch the Demo Video](https://www.youtube.com/watch?v=dypM37S279k)** - See the complete system in action!
+
+
 ## Project Overview
 
 This system provides automated truck detection and access control through license plate recognition. When a truck arrives:
